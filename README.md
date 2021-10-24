@@ -9,6 +9,6 @@ This is a chat application built using MERN stack.
 
 ## Screenshot:
 
-![Alt](/Screenshot.png = 100*20)
+![Alt](/Screenshot.png)
 ![Alt](/Screenshot1.png)
 ![Alt](/Screenshot2.png)
